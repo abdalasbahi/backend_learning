@@ -246,4 +246,4 @@ tail -f تتبع اي تغيير على ملف معين
 
 ---
 
-يمكنك الآن فتح ملف `cli-commands.md` وإضافة هذه القائمة إليه، ثم حفظ وتوثيق التعديل بـ `git add .` و `git commit -m "docs: add full reference for CLI and Git commands"`!
+يمكنك الآن فتح ملف `cli-commands.md` وإضافة هذه القائمة إليه، ثم حفظ وتوثيق التعديل بـ `git add .` و `git commit -m "docs: add full reference for CLI and Git commands"`!# دليل الأوامر البرمجية - نسخة الفرع الرئيسي
